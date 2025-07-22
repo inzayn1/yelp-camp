@@ -51,11 +51,17 @@
    git clone https://github.com/inzayn1/yelp-camp.git
    cd yelp-camp
 npm install
+
 DB_URL=mongodb://localhost:27017/yelp-camp
+
 CLOUDINARY_CLOUD_NAME=your_cloud_name
+
 CLOUDINARY_KEY=your_api_key
+
 CLOUDINARY_SECRET=your_api_secret
+
 MAPBOX_TOKEN=your_mapbox_token
+
 npm start
 
 
