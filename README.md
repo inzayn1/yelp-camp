@@ -1,4 +1,4 @@
-# 🌲 YelpCamp - The Ultimate Campground Sharing App
+# 🌲 YelpCamp - The Ultimate Campground
 
 
 > A full-stack web application where outdoor enthusiasts can share, review, and discover beautiful campgrounds 🌄.
