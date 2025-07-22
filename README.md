@@ -5,14 +5,8 @@
 
 ---
 
-## 🚀 Live Demo
+ 
 
-🔗 [Click here to visit the live site](https://your-deployment-link.com)  
-🧪 Test account:  
-- **Username:** `jess`  
-- **Password:** `jess`
-
----
 
 ## 📸 Preview
 
