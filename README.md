@@ -60,7 +60,7 @@ CLOUDINARY_KEY=your_api_key
 
 CLOUDINARY_SECRET=your_api_secret
 
-MAPBOX_TOKEN=your_mapbox_token
+MAPtiler_TOKEN=your_maptiler_token
 
 npm start
 
